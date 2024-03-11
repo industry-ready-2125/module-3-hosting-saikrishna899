@@ -9,7 +9,7 @@ body{
     font-family: "Familjen Grotesk", sans-serif;
     box-sizing: border-box;
     background-color: black;
-    background-image: url(/starlink.webp);
+    background-image: url(starlink.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
